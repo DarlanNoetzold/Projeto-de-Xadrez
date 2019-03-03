@@ -1,0 +1,7 @@
+C:\Users\darla\Desktop\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.exe.config
+C:\Users\darla\Desktop\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.exe
+C:\Users\darla\Desktop\xadrez-console-master\xadrez-console\bin\Debug\xadrez-console.pdb
+C:\Users\darla\Desktop\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.csprojAssemblyReference.cache
+C:\Users\darla\Desktop\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\darla\Desktop\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.exe
+C:\Users\darla\Desktop\xadrez-console-master\xadrez-console\obj\Debug\xadrez-console.pdb
