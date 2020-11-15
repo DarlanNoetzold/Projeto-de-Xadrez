@@ -4,6 +4,6 @@
 ## Programa
 Um jogo de tabuleiro (xadrez) em console.
 
-<p align="center"> <img src="https://github.com/DarlanNoetzold/Projeto-de-Xadrez/blob/master/Calculadora.jpg" /> <img src="https://github.com/DarlanNoetzold/Projeto-de-Xadrez/blob/master/Calculadora.jpg" /> </p>
+<p align="center"> <img src="https://github.com/DarlanNoetzold/Projeto-de-Xadrez/blob/master/Calculadora.jpg" /> <img src="https://github.com/DarlanNoetzold/Projeto-de-Xadrez/blob/master/Calculadora2.jpg" /> </p>
 
 
